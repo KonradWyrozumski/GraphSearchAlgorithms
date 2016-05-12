@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree.Implementation", "BinaryTree.Implementation\BinaryTree.Implementation.csproj", "{EE2EF4B0-A11A-4DBB-9132-7975B97671CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeSearchAlgorithms", "TreeSearchAlgorithms\TreeSearchAlgorithms.csproj", "{7293557C-40F5-475A-8115-288C11E56605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeSearchAlgorithms.Tests", "TreeSearchAlgorithms.Tests\TreeSearchAlgorithms.Tests.csproj", "{B8490770-8022-40A7-8D91-5DA524CC1DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2EF4B0-A11A-4DBB-9132-7975B97671CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2EF4B0-A11A-4DBB-9132-7975B97671CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2EF4B0-A11A-4DBB-9132-7975B97671CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2EF4B0-A11A-4DBB-9132-7975B97671CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7293557C-40F5-475A-8115-288C11E56605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7293557C-40F5-475A-8115-288C11E56605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7293557C-40F5-475A-8115-288C11E56605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7293557C-40F5-475A-8115-288C11E56605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8490770-8022-40A7-8D91-5DA524CC1DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8490770-8022-40A7-8D91-5DA524CC1DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8490770-8022-40A7-8D91-5DA524CC1DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8490770-8022-40A7-8D91-5DA524CC1DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
